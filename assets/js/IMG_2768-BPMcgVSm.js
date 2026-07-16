@@ -1,0 +1,1 @@
+var s="/car-wash_site/assets/images/IMG_2768-DrjebOGu.jpeg";export{s as t};

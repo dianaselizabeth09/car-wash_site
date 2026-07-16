@@ -1,0 +1,1 @@
+var s="/car-wash_site/assets/images/1.1-Bi0G_3fj.jpeg";export{s as t};
