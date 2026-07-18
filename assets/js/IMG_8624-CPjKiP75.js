@@ -1,1 +1,0 @@
-var s="/car-wash_site/assets/images/IMG_0780-OwWLF3aM.jpeg",a="/car-wash_site/assets/images/IMG_8624-OVN5o0Hc.png";export{s as n,a as t};
